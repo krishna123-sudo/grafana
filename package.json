@@ -1,0 +1,20 @@
+{
+  "name": "monitor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@promster/express": "^13.0.0",
+    "nodemon": "^3.1.0",
+    "prom-client": "^14.2.0",
+    "prometheus-api-metrics": "^3.2.2",
+    "winston": "^3.13.0",
+    "winston-loki": "^6.0.8"
+  },
+  "description": ""
+}
